@@ -18,6 +18,7 @@ export const props: EnvironmentProps = {
   // useNatInstance: true,
   // enableAuroraScalesToZero: true,
   // useFargateSpot: true,
+  useCloudFront: false,
 
   domainName:'visiostorm.com',
   subDomain:'dify'
