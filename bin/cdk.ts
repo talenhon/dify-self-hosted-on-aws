@@ -9,7 +9,7 @@ export const props: EnvironmentProps = {
   awsRegion: 'ap-east-1',
   awsAccount: process.env.CDK_DEFAULT_ACCOUNT!,
   // Set Dify version
-  difyImageTag: '1.9.1',
+  difyImageTag: '1.9.2',
   // Set plugin-daemon version to stable release
   difyPluginDaemonImageTag: '0.3.3-local',
 
@@ -19,7 +19,7 @@ export const props: EnvironmentProps = {
   // enableAuroraScalesToZero: true,
   // useFargateSpot: true,
 
-  domainName:visiostorm.com
+  domainName:'visiostorm.com'
   
 
   // Please see EnvironmentProps in lib/environment-props.ts for all the available properties
