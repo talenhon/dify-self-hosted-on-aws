@@ -19,7 +19,8 @@ export const props: EnvironmentProps = {
   // enableAuroraScalesToZero: true,
   // useFargateSpot: true,
 
-  domainName:'visiostorm.com'
+  domainName:'visiostorm.com',
+  subDomain:'dify'
   
 
   // Please see EnvironmentProps in lib/environment-props.ts for all the available properties
