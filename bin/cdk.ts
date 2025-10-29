@@ -20,7 +20,7 @@ export const props: EnvironmentProps = {
   // useFargateSpot: true,
   useCloudFront: false,
 
-  domainName:'visiostorm.com',
+  domainName:'talenhon.com',
   subDomain:'dify'
   
 
